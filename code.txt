@@ -1,0 +1,91 @@
+<HTML>
+<TITLE>INDIAN SPORTS</TITLE>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<BODY>
+<meta name="keywords" content="sports">
+<meta name="description" content="Imformation on Indian sports"> 
+<meta name="keywords" content="sports">
+<meta http-equiv="refresh" content="75"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<h1 style="color:red;">INDIAN SPORTS</h1>
+<style>
+body {background-color:white;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+<h1>TYPES OF INDIAN SPORTS</h1>
+<p>Sport in India refers to the large variety of games played in India, ranging from tribal games to more mainstream sports such as cricket, badminton and football. 
+India's diversity of culture, people and tribe as well as its colonial legacy is reflected in the wide variety of sporting disciplines in the 
+<p>Other popular sports in India are badminton, football, shooting, wrestling, boxing, tennis, squash, weightlifting, gymnastics, athletics, table tennis, basketball,
+ volleyball and cycling. Popular indigenous sports include chess, kho-kho, kite-fighting, leg cricket, polo, snooker and gillidanda. <br>
+<h2>MOST PLAYED GAMES IN INDIA</h2>
+<br>
+<ul>
+  <li>CRICKET</li>
+  <li>KABADDI</li>
+  <li>BATMITON</li>
+</ul>  
+<br>
+<img src="images.jpg" alt="INDIAN SPORTS " style="width:500px;height:250px;">
+<br>
+<a href="https://en.wikipedia.org/wiki/India_national_cricket_team">FOR CRICKET</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/India_men%27s_national_field_hockey_team">FOR HOCKEY</a><br>
+<a href="https://en.wikipedia.org/wiki/India_national_football_team">FOR FOOTBALL</a><br>
+<a href="https://en.wikipedia.org/wiki/Sport_in_India">FOR FOOTBALL</a><br>
+<table style="width:100%">
+  <tr>
+    <th>NAME</th>
+<th>CATEGORY</th>
+<th>AWARD</th>
+<th>YEAR</th>
+  </tr>
+  <tr>
+    <td>VISWANATHAN ANAND</td>
+    <td>CHESS</td>
+    <td>RAJIV GANDHI KHEL RATNA AWARDS</td>
+<td>1991-92</td>
+  </tr>
+  <tr>
+    <td>DEEPA MALIK</td>
+    <td>ATHLETICS</td>
+  <td>RAJIV GANDHI KHEL RATNA AWARDS</td>
+    <td>2018-19</td>
+  </tr>
+  <tr>
+    <td>ANJU BOBBY GEORGE</td>
+    <td>ATHLETICS</td>
+  <td>RAJIV GANDHI KHEL RATNA AWARDS</td>
+    <td>2003-04</td>
+  </tr>
+  <tr>
+    <td>VIRAT KOHLI</td>
+    <td>CRICKET</td>
+  <td>RAJIV GANDHI KHEL RATNA AWARDS</td>
+    <td>2017-18</td>
+  </tr>
+  <tr>
+    <td>SACHIN TENDULKAR</td>
+    <td>CRICKET</td>
+  <td>RAJIV GANDHI KHEL RATNA AWARDS</td>
+    <td>1997-98</td>
+  </tr>
+  <tr>
+    <td>MARY KOM</td>
+    <td>BOXING</td>
+  <td>RAJIV GANDHI KHEL RATNA AWARDS</td>
+    <td>2008-09</td>
+  </tr>
+</table><br>
+<a href="https://testbook.com/blog/list-of-sports-awards-in-india-gk-notes-pdf/">FOR MORE RESULTS </a><br>
+</BODY>
+</HTML>
